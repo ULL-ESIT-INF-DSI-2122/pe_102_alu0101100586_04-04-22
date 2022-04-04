@@ -1,6 +1,10 @@
 {
   "entryPoints": [
-    "src/index.ts"
+    "src/index.ts",
+    "src/algorithm/bubble.ts",
+    "src/algorithm/merge.ts",
+    "src/context/sort.ts",
+    "src/interface/strategy.ts"
   ],
   "out": "./docs"
 }
